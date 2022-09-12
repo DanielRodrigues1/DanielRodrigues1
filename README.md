@@ -1,7 +1,7 @@
-Daniel Fernando Macedro Rdorigues
-Programador de Sistemas eletrônicos Embarcados em C / C++
-Técnico Eletrônico
-Cursando Analise e Desenvolvimento de Sistemas 
+Daniel Fernando Macedro Rdorigues\n
+Programador de Sistemas eletrônicos Embarcados em C / C++\n
+Técnico Eletrônico\n
+Cursando Analise e Desenvolvimento de Sistemas\n 
 
 <!---
 DanielRodrigues1/DanielRodrigues1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
